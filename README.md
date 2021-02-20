@@ -1,4 +1,4 @@
-# OpenWeather, OneCallAPI
+# OpenWeather, OneCallAPI Android Library
 
 This is an android library to get the weather forecaset from OpenWeather using their [OneCall API](https://openweathermap.org/api/one-call-api).
 
