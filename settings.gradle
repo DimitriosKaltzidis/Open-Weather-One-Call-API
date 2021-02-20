@@ -1,0 +1,3 @@
+include ':OneCallApiLibrary'
+include ':app'
+rootProject.name = "OpenWeatherMapOneCallApiClient"
